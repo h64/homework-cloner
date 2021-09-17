@@ -1,0 +1,25 @@
+{
+  "name": "homework-cloner",
+  "version": "1.0.0",
+  "description": "A script to automate pull request cloning",
+  "main": "cloneHw.js",
+  "devDependencies": {
+    "@types/node": "^16.7.13",
+    "@typescript-eslint/eslint-plugin": "^4.31.0",
+    "@typescript-eslint/parser": "^4.31.0",
+    "eslint": "^7.32.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h64/homework-cloner.git"
+  },
+  "author": "Henry H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h64/homework-cloner/issues"
+  },
+  "homepage": "https://github.com/h64/homework-cloner#readme"
+}
